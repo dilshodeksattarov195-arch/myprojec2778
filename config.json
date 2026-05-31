@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorpncrypt",
+        "uuid": 21868416,
+        "checksum": "kw7oldm"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
